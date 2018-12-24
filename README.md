@@ -1,2 +1,2 @@
-# search-table-pagination
-vue-element-component 搜索框+列表+分页的组件
+# Search-Table-Pagination
+## 使用 vue2.x+element 实现集搜索框+表格+分页的vue组件
