@@ -1,4 +1,4 @@
-/** @format */
+/** 组件参数配置文件 */
 
 // 搜索框参数
 const searchParam = {
